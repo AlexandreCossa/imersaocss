@@ -1,0 +1,43 @@
+/* Aula inicial :D */
+
+body {
+    /* background-image: url("https://wallpapercave.com/wp/cOHHn9L.jpg"); */
+    background-image: url("https://vanessametonini.com.br/imersaocss/a1/img/fundo.jpg");
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 10vh;
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  a {
+    color: teal;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;  
+  }
+  
+  .site-subtitle,
+  .site-title {
+    text-align: center;
+    color: whitesmoke;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
+  
+  
